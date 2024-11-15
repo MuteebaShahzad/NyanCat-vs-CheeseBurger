@@ -7,3 +7,13 @@ C:\Users\user\source\repos\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_
 C:\Users\user\source\repos\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.csproj.GenerateResource.cache
 C:\Users\user\source\repos\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.exe
 C:\Users\user\source\repos\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.pdb
+C:\Users\Tab & Tech\Source\Repos\CarRacingGame\Car Racing Game\bin\Debug\Car Racing Game.exe.config
+C:\Users\Tab & Tech\Source\Repos\CarRacingGame\Car Racing Game\bin\Debug\Car Racing Game.exe
+C:\Users\Tab & Tech\Source\Repos\CarRacingGame\Car Racing Game\bin\Debug\Car Racing Game.pdb
+C:\Users\Tab & Tech\Source\Repos\CarRacingGame\Car Racing Game\obj\Debug\Car Racing Game.csproj.AssemblyReference.cache
+C:\Users\Tab & Tech\Source\Repos\CarRacingGame\Car Racing Game\obj\Debug\Car_Racing_Game.Form1.resources
+C:\Users\Tab & Tech\Source\Repos\CarRacingGame\Car Racing Game\obj\Debug\Car_Racing_Game.Properties.Resources.resources
+C:\Users\Tab & Tech\Source\Repos\CarRacingGame\Car Racing Game\obj\Debug\Car Racing Game.csproj.GenerateResource.cache
+C:\Users\Tab & Tech\Source\Repos\CarRacingGame\Car Racing Game\obj\Debug\Car Racing Game.csproj.CoreCompileInputs.cache
+C:\Users\Tab & Tech\Source\Repos\CarRacingGame\Car Racing Game\obj\Debug\Car Racing Game.exe
+C:\Users\Tab & Tech\Source\Repos\CarRacingGame\Car Racing Game\obj\Debug\Car Racing Game.pdb

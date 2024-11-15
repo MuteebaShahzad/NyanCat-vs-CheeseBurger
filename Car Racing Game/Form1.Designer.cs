@@ -66,30 +66,30 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.White;
-            this.pictureBox1.Location = new System.Drawing.Point(244, -1);
+            this.pictureBox1.Location = new System.Drawing.Point(0, 561);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(13, 116);
+            this.pictureBox1.Size = new System.Drawing.Size(10, 10);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // pictureBox5
             // 
             this.pictureBox5.BackColor = System.Drawing.Color.White;
-            this.pictureBox5.Location = new System.Drawing.Point(503, -10);
+            this.pictureBox5.Location = new System.Drawing.Point(503, 558);
             this.pictureBox5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(13, 577);
+            this.pictureBox5.Size = new System.Drawing.Size(10, 10);
             this.pictureBox5.TabIndex = 0;
             this.pictureBox5.TabStop = false;
             // 
             // pictureBox6
             // 
             this.pictureBox6.BackColor = System.Drawing.Color.White;
-            this.pictureBox6.Location = new System.Drawing.Point(0, -10);
+            this.pictureBox6.Location = new System.Drawing.Point(0, 561);
             this.pictureBox6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(13, 578);
+            this.pictureBox6.Size = new System.Drawing.Size(10, 10);
             this.pictureBox6.TabIndex = 0;
             this.pictureBox6.TabStop = false;
             // 
@@ -102,10 +102,10 @@
             // car
             // 
             this.car.Image = ((System.Drawing.Image)(resources.GetObject("car.Image")));
-            this.car.Location = new System.Drawing.Point(167, 469);
+            this.car.Location = new System.Drawing.Point(158, 488);
             this.car.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.car.Name = "car";
-            this.car.Size = new System.Drawing.Size(47, 75);
+            this.car.Size = new System.Drawing.Size(80, 56);
             this.car.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.car.TabIndex = 1;
             this.car.TabStop = false;
@@ -128,7 +128,7 @@
             this.enemy3.Location = new System.Drawing.Point(364, 27);
             this.enemy3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.enemy3.Name = "enemy3";
-            this.enemy3.Size = new System.Drawing.Size(24, 57);
+            this.enemy3.Size = new System.Drawing.Size(40, 88);
             this.enemy3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.enemy3.TabIndex = 1;
             this.enemy3.TabStop = false;
@@ -136,10 +136,10 @@
             // enemy2
             // 
             this.enemy2.Image = ((System.Drawing.Image)(resources.GetObject("enemy2.Image")));
-            this.enemy2.Location = new System.Drawing.Point(167, 91);
+            this.enemy2.Location = new System.Drawing.Point(167, 93);
             this.enemy2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.enemy2.Name = "enemy2";
-            this.enemy2.Size = new System.Drawing.Size(24, 57);
+            this.enemy2.Size = new System.Drawing.Size(40, 88);
             this.enemy2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.enemy2.TabIndex = 1;
             this.enemy2.TabStop = false;
@@ -150,7 +150,7 @@
             this.enemy1.Location = new System.Drawing.Point(44, 27);
             this.enemy1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.enemy1.Name = "enemy1";
-            this.enemy1.Size = new System.Drawing.Size(24, 57);
+            this.enemy1.Size = new System.Drawing.Size(40, 88);
             this.enemy1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.enemy1.TabIndex = 1;
             this.enemy1.TabStop = false;
@@ -158,30 +158,30 @@
             // pictureBox2
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.White;
-            this.pictureBox2.Location = new System.Drawing.Point(244, 150);
+            this.pictureBox2.Location = new System.Drawing.Point(503, 558);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(13, 116);
+            this.pictureBox2.Size = new System.Drawing.Size(10, 10);
             this.pictureBox2.TabIndex = 0;
             this.pictureBox2.TabStop = false;
             // 
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.White;
-            this.pictureBox3.Location = new System.Drawing.Point(244, 301);
+            this.pictureBox3.Location = new System.Drawing.Point(503, 558);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(13, 116);
+            this.pictureBox3.Size = new System.Drawing.Size(10, 10);
             this.pictureBox3.TabIndex = 0;
             this.pictureBox3.TabStop = false;
             // 
             // pictureBox4
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.White;
-            this.pictureBox4.Location = new System.Drawing.Point(244, 455);
+            this.pictureBox4.Location = new System.Drawing.Point(0, 561);
             this.pictureBox4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(13, 116);
+            this.pictureBox4.Size = new System.Drawing.Size(10, 10);
             this.pictureBox4.TabIndex = 0;
             this.pictureBox4.TabStop = false;
             // 
@@ -249,6 +249,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.BackgroundImage = global::Car_Racing_Game.Properties.Resources.BG;
             this.ClientSize = new System.Drawing.Size(512, 567);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.over);
@@ -269,7 +270,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
-            this.Text = "Car Racing Game";
+            this.Text = "Nyan Cat vs CheeseBurger";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
